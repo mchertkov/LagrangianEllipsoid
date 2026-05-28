@@ -1,4 +1,4 @@
-# Lagrangian Ellipsoid Scheme: paper figures
+# Lagrangian Ellipsoid Scheme: figures for http://arxiv.org/abs/2605.27606 
 
 This directory contains a self-contained post-processing notebook for regenerating the paper figures from the saved empirical and reduced-model data products.
 
